@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "post_id": 1,
+        "user_id": 1,
+        "parent_id": null,
+        "body": "asdf asdf asdf as a a er wer wer",
+        "created_at": "" 
+    },
+    {
+        "id": 2,
+        "post_id": 1,
+        "user_id": 1,
+        "parent_id": null,
+        "body": "sdfgshh wrther rtyjrtyrty rtt",
+        "created_at": "" 
+    },
+    {
+        "id": 2,
+        "post_id": 1,
+        "user_id": 1,
+        "parent_id": null,
+        "body": "swrhrtv elkj;l l;kjwiuyer",
+        "created_at": "" 
+    },
+    {
+        "id": 3,
+        "post_id": 1,
+        "user_id": 1,
+        "parent_id": null,
+        "body": "sfglkuh lkjhdjeuehuf  u gytf",
+        "created_at": "" 
+    },
+    {
+        "id": 4,
+        "post_id": 1,
+        "user_id": 1,
+        "parent_id": null,
+        "body": "fdvsdfv jkn, mn jb",
+        "created_at": "" 
+    },
+    {
+        "id": 5,
+        "post_id": 1,
+        "user_id": 1,
+        "parent_id": null,
+        "body": "jljqlej ih ihoihweoirhg",
+        "created_at": "" 
+    },
+    {
+        "id": 2,
+        "post_id": 1,
+        "user_id": 1,
+        "parent_id": null,
+        "body": "sdfgshh wrther rtyjrtyrty rtt",
+        "created_at": "" 
+    }
+]
